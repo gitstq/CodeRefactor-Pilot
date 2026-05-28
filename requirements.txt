@@ -1,0 +1,3 @@
+# CodeRefactor Pilot has zero runtime dependencies.
+# All functionality uses Python standard library only.
+# This file is intentionally empty.
